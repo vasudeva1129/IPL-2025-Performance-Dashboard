@@ -70,5 +70,6 @@ This project is an interactive **Power BI dashboard** built to analyze player an
 This project showcases the power of data visualization in sports analytics by providing clear insights into IPL 2025 performance. It highlights skills in **data analysis, storytelling, and dashboard design**.
 
 
-<img width="1457" height="819" alt="Ipl 2025 dashboard" src="https://github.com/user-attachments/assets/96179637-4d77-4f8e-8f78-b324251bb703" />
+<img width="1457" height="822" alt="Ipl 2025 dashboard" src="https://github.com/user-attachments/assets/65b01d51-f9d4-44da-8659-ab918aad435a" />
+
 
